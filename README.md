@@ -1,6 +1,6 @@
-# NLP-DeepLearning_Modulo_III_Stopwords_Entrega
-Práctica: Implementación y evaluación de eliminación de stopwords con spaCy
-# NLP - Eliminación de Stopwords con spaCy
+# NLP & DeepLearning Modulo III Stopwords Entrega
+### Práctica: Implementación y evaluación de eliminación de stopwords con spaCy
+### NLP - Eliminación de Stopwords con spaCy
 
 ## Objetivo
 Implementar y evaluar la eliminación de stopwords en un dataset de reseñas, utilizando spaCy. Se comparan resultados con lista estándar y personalizada.
